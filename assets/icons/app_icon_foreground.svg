@@ -1,0 +1,17 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="leaf" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#d9f3e5" stop-opacity="0.98" />
+    </linearGradient>
+  </defs>
+  <g transform="translate(128 96)">
+    <path d="M384 96c-144 0-256 110-256 254 0 136 93 230 226 350 13 11 32 11 45 0 133-120 226-214 226-350 0-144-112-254-256-254z" fill="url(#leaf)" stroke="#9ad5b6" stroke-width="22" />
+    <path d="M384 196c-92 0-166 72-166 164 0 91 61 155 171 247a12 12 0 0 0 16 0c110-92 171-156 171-247 0-92-74-164-166-164z" fill="none" stroke="#8bcf9f" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M384 196v420" stroke="#7ac88f" stroke-width="18" stroke-linecap="round" />
+    <path d="M384 360c-48-26-84-30-124-8" stroke="#7ac88f" stroke-width="16" stroke-linecap="round" />
+    <path d="M384 456c-54-28-90-32-132-6" stroke="#7ac88f" stroke-width="16" stroke-linecap="round" />
+    <path d="M384 360c48-26 84-30 124-8" stroke="#7ac88f" stroke-width="16" stroke-linecap="round" />
+    <path d="M384 456c54-28 90-32 132-6" stroke="#7ac88f" stroke-width="16" stroke-linecap="round" />
+  </g>
+</svg>
